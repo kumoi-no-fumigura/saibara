@@ -5,7 +5,12 @@
  "yomi": "さいばら",
  "category": "歌謡",
  "kind": "kashu",
- "description": null,
+ "description": {
+  "kind": "歌謡（催馬楽）",
+  "era": "平安時代",
+  "author": "未詳",
+  "desc": "民謡などを雅楽の調べにのせて歌った歌謡。律と呂の曲からなる。"
+ },
  "editions": [
   {
    "pid": "1913603",
