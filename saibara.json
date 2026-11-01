@@ -2555,6 +2555,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 79,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "saibara",
   "work": "催馬楽",
@@ -2567,7 +2571,7 @@
   "blocks": 83,
   "chars": 4484,
   "poems": 86,
-  "yaku": 0,
+  "yaku": 79,
   "editions": 1,
   "updated": "2026-11-01",
   "updated_at": "2026-11-01T08:49:26+09:00"
